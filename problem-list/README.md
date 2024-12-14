@@ -400,6 +400,12 @@
 | [ABC381-D 1122 Substring](https://atcoder.jp/contests/abc381/tasks/abc381_d) | |
 | [ABC382-C Kaiten Sushi](https://atcoder.jp/contests/abc382/tasks/abc382_c) | しゃくとり法で前計算 |
 
+### 再帰
+
+| 問題名 | メモ |
+| --- | --- |
+| [ABC382-D Keep Distance](https://atcoder.jp/contests/abc382/tasks/abc382_d) | 枝刈りして全探索 |
+
 ### 半分全列挙
 
 | 問題名 | メモ |

@@ -94,11 +94,12 @@
 | --- | --- |
 | [ABC189-C Mandarin Orange](https://atcoder.jp/contests/abc189/tasks/abc189_c) | |
 
-### Deque
+### Queue,Deque
 
 | 問題名 | メモ |
 | --- | --- |
 | [競プロ典型90問-061 Deck](https://atcoder.jp/contests/typical90/tasks/typical90_bi) | |
+| [ABC379-D Home Garden](https://atcoder.jp/contests/abc379/tasks/abc379\_d) | 計算量の見積もり |
 
 ### Union-Find
 
@@ -344,6 +345,7 @@
 | [競プロ鉄則-A44 Change and Reverse](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ar) | |
 | [競プロ鉄則-B44 Grid Operations](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dq) | |
 | [ABC382-C Kaiten Sushi](https://atcoder.jp/contests/abc382/tasks/abc382_c) | |
+| [ABC379-D Home Garden](https://atcoder.jp/contests/abc379/tasks/abc379\_d) | 計算量の見積もり |
 
 ### 不変量に着目する
 

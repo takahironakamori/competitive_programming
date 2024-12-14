@@ -38,7 +38,7 @@
 
 | 問題名 | メモ |
 | --- | --- |
-| [競プロ典型90問-002 Encyclopedia of Parentheses](https://atcoder.jp/contests/typical90/tasks/typical90_b){:target="_blank"}| |
+| [競プロ典型90問-002 Encyclopedia of Parentheses](https://atcoder.jp/contests/typical90/tasks/typical90_b) | |
 
 ### 順列全探索
 

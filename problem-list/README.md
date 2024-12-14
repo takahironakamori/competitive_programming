@@ -397,6 +397,7 @@
 | [競プロ典型90問-034 There Are Few Types Of Elements](https://atcoder.jp/contests/typical90/tasks/typical90_ah) | |
 | [ABC377-D Many Segments 2](https://atcoder.jp/contests/abc377/tasks/abc377_d) | |
 | [ABC381-D 1122 Substring](https://atcoder.jp/contests/abc381/tasks/abc381_d) | |
+| [ABC382-C Kaiten Sushi](https://atcoder.jp/contests/abc382/tasks/abc382_c) | しゃくとり法で前計算 |
 
 ### 半分全列挙
 

@@ -243,6 +243,7 @@
 | 問題名 | メモ |
 | --- | --- |
 | [競プロ典型90問-014 We Used to Sing a Song Together](https://atcoder.jp/contests/typical90/tasks/typical90_n) | |
+| [ABC376-C Prepare Another Box](https://atcoder.jp/contests/abc376/tasks/abc376_c) | |
 
 ### 円環
 

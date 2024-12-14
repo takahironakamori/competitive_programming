@@ -3,6 +3,8 @@
 過去に挑戦したAtCoder等の競技プログラミング問題を、分野別に一覧表に整理しています。
 各分野を主観で入門と上級に分けています。また、各問題に対する分野も自分が解きやすい分野を選定しています。
 
+<br>
+
 ## 目次
 
 | 分野 | 主なアルゴリズム等 |
@@ -48,12 +50,16 @@
 | --- | --- |
 | [競プロ典型90問-032 AtCoder Ekiden](https://atcoder.jp/contests/typical90/tasks/typical90_af) | |
 
+<br>
+
 <a id="section-02-a"></a>
 ## 二分探索【入門】
 
 | 問題名 | メモ |
 | --- | --- |
 | | |
+
+<br>
 
 <a id="section-03-a"></a>
 ## 並び替え【入門】
@@ -62,12 +68,16 @@
 | --- | --- |
 | | |
 
+<br>
+
 <a id="section-04-a"></a>
 ## 累積和【入門】
 
 | 問題名 | メモ |
 | --- | --- |
 | | |
+
+<br>
 
 <a id="section-05-a"></a>
 ## データ構造【入門】
@@ -103,6 +113,8 @@
 | --- | --- |
 | [ABC217-E Sorting Queries](https://atcoder.jp/contests/abc217/tasks/abc217_e) | |
 
+<br>
+
 <a id="section-06-a"></a>
 ## 動的計画法【入門】
 
@@ -110,6 +122,8 @@
 | --- | --- |
 | [競プロ典型90問-050 Stair Jump](https://atcoder.jp/contests/typical90/tasks/typical90_ax) | |
 | [EDPC-D Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d) | |
+
+<br>
 
 <a id="section-07-a"></a>
 ## グラフ【入門】
@@ -133,6 +147,8 @@
 | 問題名 | メモ |
 | --- | --- |
 | [競プロ典型90問-043 Maze Challenge with Lack of Sleep](https://atcoder.jp/contests/typical90/tasks/typical90_aq) |  |
+
+<br>
 
 <a id="section-08-a"></a>
 ## 数学【入門】
@@ -187,6 +203,8 @@
 | --- | --- |
 | [競プロ典型90問-069 Colorful Blocks 2](https://atcoder.jp/contests/typical90/tasks/typical90_bq) |  |
 
+<br>
+
 <a id="section-09-a"></a>
 ## 総合問題【入門】
 
@@ -196,6 +214,8 @@
 | [競プロ鉄則-A72 Tile Painting](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bt) | |
 | [競プロ鉄則-A73 Marathon Route](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bu) | |
 | [競プロ鉄則-A74 Board Game](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bv) | |
+
+<br>
 
 <a id="section-10-b"></a>
 ## 考察テクニック
@@ -356,6 +376,8 @@
 | 問題名 | メモ |
 | --- | --- |
 | [競プロ典型90問-088 Similar but Different Ways](https://atcoder.jp/contests/typical90/tasks/typical90_cj) | |
+
+<br>
 
 <a id="section-01-b"></a>
 ## 全探索【上級】

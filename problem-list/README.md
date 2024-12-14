@@ -7,7 +7,7 @@
 
 ## 目次
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;分野&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 主なアルゴリズム等 |
+| 分野 | 主なアルゴリズム等 |
 | --- | --- |
 | [全探索【入門】](#section-01-a)| bit全探索、順列全探索 |
 | [二分探索【入門】](#section-02-a)| 基本的な二分探索 |
@@ -413,6 +413,8 @@
 | --- | --- |
 | [競プロ典型90問-084 There are two types of characters](https://atcoder.jp/contests/typical90/tasks/typical90_cf) | |
 
+<br>
+
 <a id="section-02-b"></a>
 ## 二分探索【上級】
 
@@ -429,6 +431,8 @@
 | [競プロ典型90問-001 Yokan Party](https://atcoder.jp/contests/typical90/tasks/typical90_a) | |
 | [競プロ典型90問-087 Chokuda is Demand](https://atcoder.jp/contests/typical90/tasks/typical90_ci) | |
 
+<br>
+
 <a id="section-04-b"></a>
 ## 累積和【上級】
 
@@ -444,6 +448,8 @@
 | 問題名 | メモ |
 | --- | --- |
 | [競プロ典型90問-081 Friendly Group](https://atcoder.jp/contests/typical90/tasks/typical90_cc) | |
+
+<br>
 
 <a id="section-07-b"></a>
 ## グラフ【上級】
@@ -521,6 +527,8 @@
 | [第八回アルゴリズム実技検定過去問-K ニワトリのお見合い](https://atcoder.jp/contests/past202109-open/tasks/past202109_k) |  |
 | [第七回アルゴリズム実技検定過去問-M 分割](https://atcoder.jp/contests/past202107-open/tasks/past202107_m) |  |
 
+<br>
+
 <a id="section-05-b"></a>
 ## データ構造【上級】
 
@@ -588,6 +596,8 @@
 | [ABC174-F Range Set Query](https://atcoder.jp/contests/abc174/tasks/abc174_f) | |
 | [第二回アルゴリズム実技検定過去問-N ビルの建設](https://atcoder.jp/contests/past202004-open/tasks/past202004_n) | |
 | [第七回アルゴリズム実技検定過去問-N モノクロデザイン](https://atcoder.jp/contests/past202107-open/tasks/past202107_n) | |
+
+<br>
 
 <a id="section-06-b"></a>
 ## 動的計画法【上級】
@@ -660,6 +670,8 @@
 | [競プロ典型90問-037 Don't Leave the Spice](https://atcoder.jp/contests/typical90/tasks/typical90_ak) | |
 | [第七回アルゴリズム実技検定過去問-O_コンピュータ](https://atcoder.jp/contests/past202107-open/tasks/past202107_o) | |
 
+<br>
+
 <a id="section-09-b"></a>
 ## 数学【上級】
 
@@ -711,6 +723,8 @@
 | --- | --- |
 | [競プロ典型90問-083 Colorful Graph](https://atcoder.jp/contests/typical90/tasks/typical90_ce) | |
 
+<br>
+
 <a id="section-11-b"></a>
 ## ゲーム【上級】
 
@@ -726,6 +740,8 @@
 | プログラミングコンテストチャレンジブック第2版 283頁『Cutting Game』 |  |
 | [競プロ典型90問-031 VS AtCoder](https://atcoder.jp/contests/typical90/tasks/typical90_ae) | |
 
+<br>
+
 <a id="section-09-b"></a>
 ## 総合問題【上級】
 
@@ -733,6 +749,8 @@
 | --- | --- |
 | [競プロ鉄則-A75 Examination](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bw) | |
 | [競プロ鉄則-A76 River Crossing](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bx) | |
+
+<br>
 
 <a id="section-12-b"></a>
 ## ヒューリスティック

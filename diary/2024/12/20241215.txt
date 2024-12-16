@@ -1,0 +1,28 @@
+ABC384-A aaaadaa
+https://atcoder.jp/contests/abc384/tasks/abc384_a
+AC
+
+ABC384-B ARC Division
+https://atcoder.jp/contests/abc384/tasks/abc384_b
+AC
+
+ABC384-C Perfect Standings
+https://atcoder.jp/contests/abc384/tasks/abc384_c
+AC
+bit全探索
+
+ABC384-D Repeated Sequence
+https://atcoder.jp/contests/abc384/tasks/abc384_d
+AC（遅い）
+円環、余りに着目する、しゃくとり法
+
+ABC384-E Takahashi is Slime 2
+https://atcoder.jp/contests/abc384/tasks/abc384_e
+解説AC
+priority_queue を使ったBFS
+
+
+ABC376-D Cycle [2Q]
+https://atcoder.jp/contests/abc376/tasks/abc376_d
+AC
+ProblemPalette NS から AC へ

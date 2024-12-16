@@ -43,6 +43,7 @@
 | 問題名 | メモ |
 | --- | --- |
 | [競プロ典型90問-002 Encyclopedia of Parentheses](https://atcoder.jp/contests/typical90/tasks/typical90_b) | |
+| [ABC384-C Perfect Standings](https://atcoder.jp/contests/abc384/tasks/abc384_c) | |
 
 ### 順列全探索
 
@@ -252,6 +253,7 @@
 | 問題名 | メモ |
 | --- | --- |
 | [競プロ典型90問-076 Cake Cut](https://atcoder.jp/contests/typical90/tasks/typical90_bx) | |
+| [ABC384-D Repeated Sequence](https://atcoder.jp/contests/abc384/tasks/abc384_d) | 円環、しゃくとり法 |
 
 ### 辞書順最小は前から貪欲法
 
@@ -337,6 +339,7 @@
 | 問題名 | メモ |
 | --- | --- |
 | [競プロ典型90問-058 Original Calculator](https://atcoder.jp/contests/typical90/tasks/typical90_bf) | |
+| [ABC384-D Repeated Sequence](https://atcoder.jp/contests/abc384/tasks/abc384_d) | 円環、しゃくとり法 |
 
 ### データの持ち方を工夫する
 
@@ -402,6 +405,7 @@
 | [ABC377-D Many Segments 2](https://atcoder.jp/contests/abc377/tasks/abc377_d) | |
 | [ABC381-D 1122 Substring](https://atcoder.jp/contests/abc381/tasks/abc381_d) | |
 | [ABC382-C Kaiten Sushi](https://atcoder.jp/contests/abc382/tasks/abc382_c) | しゃくとり法で前計算 |
+| [ABC384-D Repeated Sequence](https://atcoder.jp/contests/abc384/tasks/abc384_d) | 円環、しゃくとり法 |
 
 ### 再帰
 

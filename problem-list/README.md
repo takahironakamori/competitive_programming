@@ -564,7 +564,8 @@
 
 | 問題名 | メモ |
 | --- | --- |
-| [ABC380-D Strange Mirroring](https://atcoder.jp/contests/abc380/tasks/abc380_d) | |
+| [ABC380-D Strange Mirroring](https://atcoder.jp/contests/abc380/tasks/abc380_d) | 左右どっちに進んだのかを数える |
+| [ABC220-E_DistanceonLargePerfectBinaryTree](https://atcoder.jp/contests/abc220/tasks/abc220_e) | パスの数を数える |
 
 ### セグメント木
 

@@ -1,0 +1,4 @@
+ABC220-E - Distance on Large Perfect Binary Tree [--]
+https://atcoder.jp/contests/abc220/tasks/abc220_e
+【WA】
+完全ニ分木であることはわかるが, 解法はわからず.

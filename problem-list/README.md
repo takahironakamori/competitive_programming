@@ -560,6 +560,12 @@
 | [ARC036-D 偶数メートル](https://atcoder.jp/contests/arc036/tasks/arc036_d)| |
 | [第四回アルゴリズム実技検定過去問-M 筆塗り](https://atcoder.jp/contests/past202010-open/tasks/past202010_m)| |
 
+### 完全二分木
+
+| 問題名 | メモ |
+| --- | --- |
+| [ABC380-D Strange Mirroring](https://atcoder.jp/contests/abc380/tasks/abc380_d) | |
+
 ### セグメント木
 
 | 問題名 | メモ |

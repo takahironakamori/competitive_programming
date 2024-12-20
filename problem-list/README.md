@@ -120,6 +120,14 @@
 <a id="section-06-a"></a>
 ## 動的計画法【入門】
 
+### 基礎
+
+| 問題名 | メモ |
+| --- | --- |
+| [EDPC-A Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a) | |
+| [EDPC-B Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b) | |
+| [TDPC-A - コンテスト](https://atcoder.jp/contests/tdpc/tasks/tdpc_contest) | |
+
 | 問題名 | メモ |
 | --- | --- |
 | [競プロ典型90問-050 Stair Jump](https://atcoder.jp/contests/typical90/tasks/typical90_ax) | |

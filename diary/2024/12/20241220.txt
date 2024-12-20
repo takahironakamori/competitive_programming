@@ -13,3 +13,7 @@ https://atcoder.jp/contests/dp/tasks/dp_c
 EDPC-D - Knapsack 1
 https://atcoder.jp/contests/dp/tasks/dp_d
 【AC】
+
+EDPC-E - Knapsack 2
+https://atcoder.jp/contests/dp/tasks/dp_e
+【解説AC】

@@ -135,6 +135,7 @@
 | --- | --- |
 | [競プロ典型90問-050 Stair Jump](https://atcoder.jp/contests/typical90/tasks/typical90_ax) | |
 | [EDPC-D Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d) | |
+| [EDPC-E Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e) | |
 
 <br>
 

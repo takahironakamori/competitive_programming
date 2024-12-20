@@ -2,6 +2,10 @@ EDPC-A Frog 1
 https://atcoder.jp/contests/dp/tasks/dp_a
 【AC】
 
-EDPC-A Frog 2
+EDPC-B Frog 2
 https://atcoder.jp/contests/dp/tasks/dp_b
+【AC】
+
+EDPC-C - Vacation
+https://atcoder.jp/contests/dp/tasks/dp_c
 【AC】

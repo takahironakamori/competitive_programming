@@ -126,6 +126,7 @@
 | --- | --- |
 | [EDPC-A Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a) | |
 | [EDPC-B Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b) | |
+| [EDPC-C Vacation](https://atcoder.jp/contests/dp/tasks/dp_c) | |
 | [TDPC-A - コンテスト](https://atcoder.jp/contests/tdpc/tasks/tdpc_contest) | |
 
 | 問題名 | メモ |

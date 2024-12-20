@@ -9,3 +9,7 @@ https://atcoder.jp/contests/dp/tasks/dp_b
 EDPC-C - Vacation
 https://atcoder.jp/contests/dp/tasks/dp_c
 【AC】
+
+EDPC-D - Knapsack 1
+https://atcoder.jp/contests/dp/tasks/dp_d
+【AC】

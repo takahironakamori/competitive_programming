@@ -134,6 +134,8 @@
 
 | 問題名 | メモ |
 | --- | --- |
+| [競プロ鉄則-A17 Dungeon 2](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_q) | 経路の復元 |
+| [競プロ鉄則-B17 Frog 1 with Restoration](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cp) | 経路の復元 |
 | [競プロ典型90問-050 Stair Jump](https://atcoder.jp/contests/typical90/tasks/typical90_ax) | |
 | [EDPC-D Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d) | |
 | [EDPC-E Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e) | |

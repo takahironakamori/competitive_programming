@@ -1,0 +1,3 @@
+競プロ鉄則-A16_Dungeon1
+https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_p
+【解説AC】

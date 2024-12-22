@@ -100,7 +100,7 @@
 | 問題名 | メモ |
 | --- | --- |
 | [競プロ典型90問-061 Deck](https://atcoder.jp/contests/typical90/tasks/typical90_bi) | |
-| [ABC379-D Home Garden](https://atcoder.jp/contests/abc379/tasks/abc379\_d) | 計算量の見積もり |
+| [ABC379-D Home Garden](https://atcoder.jp/contests/abc379/tasks/abc379\_d) | |
 
 ### Union-Find
 
@@ -340,6 +340,7 @@
 | [競プロ鉄則-A42 Soccer](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ap) | |
 | [競プロ鉄則-B42 Two Faced Cards](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_do) | |
 | [第八回アルゴリズム実技検定過去問-M バランス](https://atcoder.jp/contests/past202109-open/tasks/past202109_m) | |
+| [ABC385-C Illuminate Buildings](https://atcoder.jp/contests/abc385/tasks/abc385_c) | |
 
 ### 問題を言い換える
 

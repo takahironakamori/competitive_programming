@@ -1,0 +1,5 @@
+ABC385-C Illuminate Buildings
+https://atcoder.jp/contests/abc385/tasks/abc385_c
+【解説AC】
+等差数列でやろうとしていた。
+

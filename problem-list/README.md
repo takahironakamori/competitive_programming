@@ -563,6 +563,12 @@
 <a id="section-05-b"></a>
 ## データ構造【上級】
 
+### map,set
+
+| 問題名 | メモ |
+| --- | --- |
+| [ABC385-D Santa Claus 2](https://atcoder.jp/contests/abc385/tasks/abc385_d) | |
+
 ### Union-Find
 
 | 問題名 | メモ |
@@ -575,6 +581,12 @@
 | [ABC120-D Decayed Bridges](https://atcoder.jp/contests/abc120/tasks/abc120_d)| |
 | [ARC036-D 偶数メートル](https://atcoder.jp/contests/arc036/tasks/arc036_d)| |
 | [第四回アルゴリズム実技検定過去問-M 筆塗り](https://atcoder.jp/contests/past202010-open/tasks/past202010_m)| |
+
+### 木（部分木）
+
+| 問題名 | メモ |
+| --- | --- |
+| [ABC385-E Snowflake Tree](https://atcoder.jp/contests/abc385/tasks/abc385_e) | 部分木のサイズを効率的に計算する |
 
 ### 完全二分木
 

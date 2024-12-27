@@ -17,3 +17,13 @@ EDPC-G Longest Path
 https://atcoder.jp/contests/dp/tasks/dp_g
 【WA】
 解法わからず
+
+EDPC-H Grid 1
+https://atcoder.jp/contests/dp/tasks/dp_h
+【WA】
+解法わからず
+
+EDPC-I Coins
+https://atcoder.jp/contests/dp/tasks/dp_i
+【WA】
+解法わからず

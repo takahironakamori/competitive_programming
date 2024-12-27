@@ -691,12 +691,17 @@
 | [EDPC-U Grouping](https://atcoder.jp/contests/dp/tasks/dp_u) | |
 | [EDPC-T Permutation](https://atcoder.jp/contests/dp/tasks/dp_t) | |
 
-
-### LCS
+### LCS(上級)
 
 | 問題名 | メモ |
 | --- | --- |
 | [競プロ鉄則-B20 Edit Distance](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cs) |  |
+
+### 確率とDP
+
+| 問題名 | メモ |
+| --- | --- |
+| [EDPC-I Coins](https://atcoder.jp/contests/dp/tasks/dp_i) |  |
 
 ### 最長増加部分列
 

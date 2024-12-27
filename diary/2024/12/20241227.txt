@@ -2,3 +2,8 @@
 https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_t
 【WA】
 解法わからず
+
+EDPC-E Knapsack 2
+https://atcoder.jp/contests/dp/tasks/dp_e
+【WA】
+解法わからず

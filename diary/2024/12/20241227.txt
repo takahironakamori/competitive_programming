@@ -12,3 +12,8 @@ https://atcoder.jp/contests/dp/tasks/dp_e
 https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cs
 【WA】
 解法わからず
+
+EDPC-G Longest Path
+https://atcoder.jp/contests/dp/tasks/dp_g
+【WA】
+解法わからず

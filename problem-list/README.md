@@ -499,6 +499,12 @@
 | [競プロ典型90問-072 Loop Railway Plan](https://atcoder.jp/contests/typical90/tasks/typical90_bt) | |
 | [競プロ典型90問-088 Similar but Different Ways](https://atcoder.jp/contests/typical90/tasks/typical90_cj) | |
 
+### トポロジカルソート
+
+| 問題名 | メモ |
+| --- | --- |
+| [EDPC-G Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g) |  |
+
 ### ワーシャルフロイド
 
 | 問題名 | メモ |
@@ -663,6 +669,7 @@
 | --- | --- |
 | [競プロ典型90問-008 AtCounter](https://atcoder.jp/contests/typical90/tasks/typical90_h) | |
 | [競プロ典型90問-011 Gravy Jobs](https://atcoder.jp/contests/typical90/tasks/typical90_k) | |
+| [EDPC-G Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g) |  |
 | [第二回アルゴリズム実技検定過去問-K 括弧](https://atcoder.jp/contests/past202004-open/tasks/past202004_k) | |
 | [典型アルゴリズム問題集 上級〜エキスパート編-A 区間分割の仕方を最適化する問題](https://atcoder.jp/contests/pastbook2022/tasks/pastbook2022_a) | |
 | [JOI本選2016-A オレンジの出荷](https://atcoder.jp/contests/joi2016ho/tasks/joi2016ho_a) | |
@@ -683,6 +690,7 @@
 | [EDPC-S Digit Sum](https://atcoder.jp/contests/dp/tasks/dp_s) | |
 | [EDPC-U Grouping](https://atcoder.jp/contests/dp/tasks/dp_u) | |
 | [EDPC-T Permutation](https://atcoder.jp/contests/dp/tasks/dp_t) | |
+
 
 ### LCS
 

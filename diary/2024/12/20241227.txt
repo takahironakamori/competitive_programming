@@ -7,3 +7,8 @@ EDPC-E Knapsack 2
 https://atcoder.jp/contests/dp/tasks/dp_e
 【WA】
 解法わからず
+
+競プロ鉄則-B20 Edit Distance
+https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cs
+【WA】
+解法わからず

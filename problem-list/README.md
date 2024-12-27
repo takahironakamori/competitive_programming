@@ -684,6 +684,12 @@
 | [EDPC-U Grouping](https://atcoder.jp/contests/dp/tasks/dp_u) | |
 | [EDPC-T Permutation](https://atcoder.jp/contests/dp/tasks/dp_t) | |
 
+### LCS
+
+| 問題名 | メモ |
+| --- | --- |
+| [競プロ鉄則-B20 Edit Distance](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cs) |  |
+
 ### 最長増加部分列
 
 | 問題名 | メモ |

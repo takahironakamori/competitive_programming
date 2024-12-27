@@ -145,6 +145,7 @@
 | 問題名 | メモ |
 | --- | --- |
 | [競プロ鉄則-A20 LCS](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_t) |  |
+| [EDPC-F LCS](https://atcoder.jp/contests/dp/tasks/dp_f) | 復元 |
 
 <br>
 

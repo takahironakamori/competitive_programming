@@ -140,6 +140,12 @@
 | [EDPC-D Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d) | |
 | [EDPC-E Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e) | |
 
+### LCS
+
+| 問題名 | メモ |
+| --- | --- |
+| [競プロ鉄則-A20 LCS](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_t) |  |
+
 <br>
 
 <a id="section-07-a"></a>

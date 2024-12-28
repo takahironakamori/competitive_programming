@@ -709,6 +709,12 @@
 | --- | --- |
 | [EDPC-J Sushi](https://atcoder.jp/contests/dp/tasks/dp_j) |  |
 
+### ゲームとDP
+
+| 問題名 | メモ |
+| --- | --- |
+| [EDPC-K Stones](https://atcoder.jp/contests/dp/tasks/dp_k) |  |
+
 ### 最長増加部分列
 
 | 問題名 | メモ |

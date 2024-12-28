@@ -27,3 +27,8 @@ EDPC-I Coins
 https://atcoder.jp/contests/dp/tasks/dp_i
 【WA】
 解法わからず
+
+EDPC-J Sushi
+https://atcoder.jp/contests/dp/tasks/dp_j
+【WA】
+解法わからず

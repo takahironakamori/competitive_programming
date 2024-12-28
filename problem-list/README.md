@@ -703,6 +703,12 @@
 | --- | --- |
 | [EDPC-I Coins](https://atcoder.jp/contests/dp/tasks/dp_i) |  |
 
+### 期待値とDP
+
+| 問題名 | メモ |
+| --- | --- |
+| [EDPC-J Sushi](https://atcoder.jp/contests/dp/tasks/dp_j) |  |
+
 ### 最長増加部分列
 
 | 問題名 | メモ |

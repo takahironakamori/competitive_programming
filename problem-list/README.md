@@ -749,6 +749,12 @@
 | [競プロ鉄則-A65 Road to Promotion](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bm) | |
 | [競プロ典型90問-073 We Need Bothaandb](https://atcoder.jp/contests/typical90/tasks/typical90_bu) | |
 
+### BITとDP
+
+| 問題名 | メモ |
+| --- | --- |
+| [EDPC-Q Flowers](https://atcoder.jp/contests/dp/tasks/dp_q) | |
+
 ### セグメント木を使ったDP
 
 | 問題名 | メモ |

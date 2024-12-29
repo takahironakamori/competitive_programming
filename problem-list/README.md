@@ -769,6 +769,7 @@
 | 問題名 | メモ |
 | --- | --- |
 | [EDPC-V Subtree](https://atcoder.jp/contests/dp/tasks/dp_v) | |
+| [ABC348-E Minimize Sum of Distances](https://atcoder.jp/contests/abc348/tasks/abc348_e) | |
 
 <br>
 

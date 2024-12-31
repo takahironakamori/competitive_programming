@@ -665,6 +665,8 @@
 <a id="section-06-b"></a>
 ## 動的計画法【上級】
 
+### 未分類
+
 | 問題名 | メモ |
 | --- | --- |
 | [競プロ典型90問-008 AtCounter](https://atcoder.jp/contests/typical90/tasks/typical90_h) | |
@@ -691,11 +693,37 @@
 | [EDPC-U Grouping](https://atcoder.jp/contests/dp/tasks/dp_u) | |
 | [EDPC-T Permutation](https://atcoder.jp/contests/dp/tasks/dp_t) | |
 
+### DP(上級)
+
+| 問題名 | メモ |
+| --- | --- |
+| [TDPC-F 準急](https://atcoder.jp/contests/tdpc/tasks/tdpc_semiexp) |  |
+| [TDPC-G 辞書順](https://atcoder.jp/contests/tdpc/tasks/tdpc_lexicographical) |  |
+| [TDPC-H ナップザック](https://atcoder.jp/contests/tdpc/tasks/tdpc_knapsack) |  |
+
+### 桁DP
+
+| 問題名 | メモ |
+| --- | --- |
+| [TDPC-E 数](https://atcoder.jp/contests/tdpc/tasks/tdpc\_number) |  |
+
+### 完全二分木とDP
+
+| 問題名 | メモ |
+| --- | --- |
+| [TDPC-C トーナメント](https://atcoder.jp/contests/tdpc/tasks/tdpc_tournament) |  |
+
 ### LCS(上級)
 
 | 問題名 | メモ |
 | --- | --- |
 | [競プロ鉄則-B20 Edit Distance](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cs) |  |
+
+###　素因数分解とDP
+
+| 問題名 | メモ |
+| --- | --- |
+| [TDPC-D サイコロ](https://atcoder.jp/contests/tdpc/tasks/tdpc_dice) |  |
 
 ### 確率とDP
 
@@ -760,6 +788,7 @@
 | 問題名 | メモ |
 | --- | --- |
 | [EDPC-W Intervals](https://atcoder.jp/contests/dp/tasks/dp_w) | |
+| [EDPC-Y_Grid2](https://atcoder.jp/contests/dp/tasks/dp_y) | |
 
 ### セグメント木を使ったDP
 
@@ -776,6 +805,12 @@
 | --- | --- |
 | [EDPC-V Subtree](https://atcoder.jp/contests/dp/tasks/dp_v) | |
 | [ABC348-E Minimize Sum of Distances](https://atcoder.jp/contests/abc348/tasks/abc348_e) | |
+
+### ConvexHullTrick
+
+| 問題名 | メモ |
+| --- | --- |
+| [EDPC-Z Frog 3](https://atcoder.jp/contests/dp/tasks/dp_z) | |
 
 <br>
 

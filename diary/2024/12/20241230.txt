@@ -1,0 +1,34 @@
+EDPC-Y_Grid2
+https://atcoder.jp/contests/dp/tasks/dp_y
+【WA】
+わからず
+
+EDPC-Z_Frog3
+https://atcoder.jp/contests/dp/tasks/dp_z
+【WA】
+わからず
+
+TDPC-C トーナメント
+https://atcoder.jp/contests/tdpc/tasks/tdpc_tournament
+【WA】
+わからず
+
+TDPC-D サイコロ
+https://atcoder.jp/contests/tdpc/tasks/tdpc_dice
+【WA】
+わからず
+
+TDPC-E 数
+https://atcoder.jp/contests/tdpc/tasks/tdpc_number
+【WA】
+わからず
+
+TDPC-F 準急
+https://atcoder.jp/contests/tdpc/tasks/tdpc_semiexp
+【WA】
+わからず
+
+TDPC-G 辞書順
+https://atcoder.jp/contests/tdpc/tasks/tdpc_lexicographical
+【WA】
+わからず

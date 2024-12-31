@@ -1,4 +1,10 @@
 TDPC-H ナップザック
-\textsf{https://atcoder.jp/contests/tdpc/tasks/tdpc_knapsack
+https://atcoder.jp/contests/tdpc/tasks/tdpc_knapsack
+【WA】
+わからず
+
+
+TDPC-J ボール
+https://atcoder.jp/contests/tdpc/tasks/tdpc\_ball
 【WA】
 わからず

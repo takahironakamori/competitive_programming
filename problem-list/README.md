@@ -719,7 +719,7 @@
 | --- | --- |
 | [競プロ鉄則-B20 Edit Distance](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cs) |  |
 
-###　素因数分解とDP
+### 素因数分解とDP
 
 | 問題名 | メモ |
 | --- | --- |
@@ -761,6 +761,7 @@
 | --- | --- |
 | [JOI予選2014-D 部活のスケジュール表](https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_d) | |
 | [競プロ典型90問-045 Simple Grouping](https://atcoder.jp/contests/typical90/tasks/typical90_as) | |
+| [TDPC-J ボール](https://atcoder.jp/contests/tdpc/tasks/tdpc_ball) |  |
 
 ### 区間DP
 

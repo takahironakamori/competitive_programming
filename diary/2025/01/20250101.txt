@@ -1,0 +1,4 @@
+TDPC-K ターゲット
+https://atcoder.jp/contests/tdpc/tasks/tdpc_target
+【WA】
+わからず

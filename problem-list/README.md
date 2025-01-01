@@ -748,6 +748,7 @@
 | 問題名 | メモ |
 | --- | --- |
 | [競プロ典型90問-060 Chimera](https://atcoder.jp/contests/typical90/tasks/typical90_bh) | |
+| [TDPC-K ターゲット](https://atcoder.jp/contests/tdpc/tasks/tdpc_target) |  |
 
 ### DP復元
 

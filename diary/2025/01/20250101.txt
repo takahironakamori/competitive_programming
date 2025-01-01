@@ -17,3 +17,8 @@ TDPC-O 文字列
 https://atcoder.jp/contests/tdpc/tasks/tdpc_string
 【WA】
 わからず
+
+TDPC-P うなぎ
+https://atcoder.jp/contests/tdpc/tasks/tdpc_eel
+【WA】
+わからず

@@ -7,3 +7,13 @@ TDPC-L 猫
 https://atcoder.jp/contests/tdpc/tasks/tdpc_cat
 【WA】
 わからず
+
+TDPC-N 木
+https://atcoder.jp/contests/tdpc/tasks/tdpc_tree
+【WA】
+わからず
+
+TDPC-O 文字列
+https://atcoder.jp/contests/tdpc/tasks/tdpc_string
+【WA】
+わからず

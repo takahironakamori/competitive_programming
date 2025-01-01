@@ -701,6 +701,7 @@
 | [TDPC-G 辞書順](https://atcoder.jp/contests/tdpc/tasks/tdpc_lexicographical) |  |
 | [TDPC-H ナップザック](https://atcoder.jp/contests/tdpc/tasks/tdpc_knapsack) |  |
 | [TDPC-L 猫](https://atcoder.jp/contests/tdpc/tasks/tdpc_cat) |  |
+| [TDPC-O 文字列](https://atcoder.jp/contests/tdpc/tasks/tdpc_string) |  |
 
 ### 桁DP
 
@@ -779,6 +780,7 @@
 | --- | --- |
 | [競プロ鉄則-A65 Road to Promotion](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bm) | |
 | [競プロ典型90問-073 We Need Bothaandb](https://atcoder.jp/contests/typical90/tasks/typical90_bu) | |
+| [TDPC-N 木](https://atcoder.jp/contests/tdpc/tasks/tdpc_tree) |  |
 
 ### BITとDP
 

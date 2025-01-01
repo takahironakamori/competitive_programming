@@ -700,6 +700,7 @@
 | [TDPC-F 準急](https://atcoder.jp/contests/tdpc/tasks/tdpc_semiexp) |  |
 | [TDPC-G 辞書順](https://atcoder.jp/contests/tdpc/tasks/tdpc_lexicographical) |  |
 | [TDPC-H ナップザック](https://atcoder.jp/contests/tdpc/tasks/tdpc_knapsack) |  |
+| [TDPC-L 猫](https://atcoder.jp/contests/tdpc/tasks/tdpc_cat) |  |
 
 ### 桁DP
 

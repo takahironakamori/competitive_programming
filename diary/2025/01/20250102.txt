@@ -1,0 +1,4 @@
+TDPC-Q 連結
+https://atcoder.jp/contests/tdpc/tasks/tdpc_concatenation
+【WA】
+わからず

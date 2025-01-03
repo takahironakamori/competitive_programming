@@ -797,6 +797,12 @@
 | [EDPC-W Intervals](https://atcoder.jp/contests/dp/tasks/dp_w) | |
 | [EDPC-Y_Grid2](https://atcoder.jp/contests/dp/tasks/dp_y) | |
 
+### UnionFindとDP
+
+| 問題名 | メモ |
+| --- | --- |
+| [TDPC-S マス目](https://atcoder.jp/contests/tdpc/tasks/tdpc_grid) |  |
+
 ### SCC,DAG と DP
 
 | 問題名 | メモ |
@@ -824,6 +830,12 @@
 | 問題名 | メモ |
 | --- | --- |
 | [EDPC-Z Frog 3](https://atcoder.jp/contests/dp/tasks/dp_z) | |
+
+### きたまさ法
+
+| 問題名 | メモ |
+| --- | --- |
+| [TDPC-T フィボナッチ](https://atcoder.jp/contests/tdpc/tasks/tdpc_fibonacci) |  |
 
 <br>
 

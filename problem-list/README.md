@@ -797,6 +797,12 @@
 | [EDPC-W Intervals](https://atcoder.jp/contests/dp/tasks/dp_w) | |
 | [EDPC-Y_Grid2](https://atcoder.jp/contests/dp/tasks/dp_y) | |
 
+### SCC,DAG と DP
+
+| 問題名 | メモ |
+| --- | --- |
+| [TDPC-R グラフ](https://atcoder.jp/contests/tdpc/tasks/tdpc_graph) |  |
+
 ### セグメント木を使ったDP
 
 | 問題名 | メモ |

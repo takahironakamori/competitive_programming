@@ -134,11 +134,14 @@
 
 | 問題名 | メモ |
 | --- | --- |
+| [競プロ典型90問-008 AtCounter](https://atcoder.jp/contests/typical90/tasks/typical90_h) | |
 | [競プロ鉄則-A17 Dungeon 2](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_q) | 経路の復元 |
 | [競プロ鉄則-B17 Frog 1 with Restoration](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cp) | 経路の復元 |
 | [競プロ典型90問-050 Stair Jump](https://atcoder.jp/contests/typical90/tasks/typical90_ax) | |
 | [EDPC-D Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d) | |
 | [EDPC-E Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e) | |
+| [競プロ典型90問-011 Gravy Jobs](https://atcoder.jp/contests/typical90/tasks/typical90_k) | |
+| [第二回アルゴリズム実技検定過去問-K 括弧](https://atcoder.jp/contests/past202004-open/tasks/past202004_k) | |
 
 ### LCS
 
@@ -669,10 +672,6 @@
 
 | 問題名 | メモ |
 | --- | --- |
-| [競プロ典型90問-008 AtCounter](https://atcoder.jp/contests/typical90/tasks/typical90_h) | |
-| [競プロ典型90問-011 Gravy Jobs](https://atcoder.jp/contests/typical90/tasks/typical90_k) | |
-| [EDPC-G Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g) |  |
-| [第二回アルゴリズム実技検定過去問-K 括弧](https://atcoder.jp/contests/past202004-open/tasks/past202004_k) | |
 | [典型アルゴリズム問題集 上級〜エキスパート編-A 区間分割の仕方を最適化する問題](https://atcoder.jp/contests/pastbook2022/tasks/pastbook2022_a) | |
 | [JOI本選2016-A オレンジの出荷](https://atcoder.jp/contests/joi2016ho/tasks/joi2016ho_a) | |
 | [典型アルゴリズム問題集 上級〜エキスパート編-B 編集距離](https://atcoder.jp/contests/pastbook2022/tasks/pastbook2022_b) | |
@@ -702,6 +701,12 @@
 | [TDPC-H ナップザック](https://atcoder.jp/contests/tdpc/tasks/tdpc_knapsack) |  |
 | [TDPC-L 猫](https://atcoder.jp/contests/tdpc/tasks/tdpc_cat) |  |
 | [TDPC-O 文字列](https://atcoder.jp/contests/tdpc/tasks/tdpc_string) |  |
+
+### トポロジカルソートとDP
+
+| 問題名 | メモ |
+| --- | --- |
+| [EDPC-G Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g) |  |
 
 ### 桁DP
 

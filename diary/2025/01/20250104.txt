@@ -1,0 +1,18 @@
+競プロ典型90問-008 AtCounter
+https://atcoder.jp/contests/typical90/tasks/typical90_h
+【AC】
+
+競プロ典型90問-011 Gravy Jobs
+https://atcoder.jp/contests/typical90/tasks/typical90_k
+【WA】
+おしい
+
+EDPC-G Longest Path
+https://atcoder.jp/contests/dp/tasks/dp_g
+【WA】
+わからず
+
+第二回アルゴリズム実技検定過去問-K 括弧
+https://atcoder.jp/contests/past202004-open/tasks/past202004_k
+【WA】
+わからず

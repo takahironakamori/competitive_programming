@@ -169,6 +169,7 @@
 | --- | --- |
 | [ABC376-D Cycle](https://atcoder.jp/contests/abc376/tasks/abc376_d) | 閉路の最短距離 |
 | [ABC383-C Humidifier 3](https://atcoder.jp/contests/abc383/tasks/abc383_c) | 複数点でスタートするBFS |
+| [ABC387-D Snaky Walk](https://atcoder.jp/contests/abc387/tasks/abc387_d) | 2方向を2回 |
 
 ### 拡張ダイクストラ
 
@@ -713,6 +714,7 @@
 | 問題名 | メモ |
 | --- | --- |
 | [TDPC-E 数](https://atcoder.jp/contests/tdpc/tasks/tdpc\_number) |  |
+| [ABC387-C Snake Numbers](https://atcoder.jp/contests/abc387/tasks/abc387_c) |  |
 
 ### 完全二分木とDP
 

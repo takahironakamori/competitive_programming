@@ -713,8 +713,14 @@
 
 | 問題名 | メモ |
 | --- | --- |
-| [TDPC-E 数](https://atcoder.jp/contests/tdpc/tasks/tdpc\_number) |  |
+| [ABC007-D 禁止された数字](https://atcoder.jp/contests/abc007/tasks/abc007_4) |  |
+| [TDPC-E 数](https://atcoder.jp/contests/tdpc/tasks/tdpc_number) |  |
+| [ABC336-E Digit Sum Divisible](https://atcoder.jp/contests/abc336/tasks/abc336_e) |  |
 | [ABC387-C Snake Numbers](https://atcoder.jp/contests/abc387/tasks/abc387_c) |  |
+| [ABC029-D 1](https://atcoder.jp/contests/abc029/tasks/abc029_d) | 未AC |
+| [ABC117-D XXOR](https://atcoder.jp/contests/abc117/tasks/abc117_d) | 未AC |
+| [ABC127-E Sum Equals Xor](https://atcoder.jp/contests/abc127/tasks/abc127_e) | 未AC |
+| [ABC208-E Digit Products](https://atcoder.jp/contests/abc208/tasks/abc208_e) | 未AC 黄diff |
 
 ### 完全二分木とDP
 

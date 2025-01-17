@@ -1,0 +1,9 @@
+ABC375-D ABA
+https://atcoder.jp/contests/abc375/tasks/abc375_d
+【WA】
+累積和
+
+ABC376-D Laser Marking
+https://atcoder.jp/contests/abc374/tasks/abc374_d
+【WA】
+詰めきれず

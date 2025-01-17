@@ -416,11 +416,17 @@
 <a id="section-01-b"></a>
 ## 全探索【上級】
 
-### bit全探索
+### bit全探索(上級)
 
 | 問題名 | メモ |
 | --- | --- |
 | [競プロ典型90問-063 Monochromatic Subgrid](https://atcoder.jp/contests/typical90/tasks/typical90_bk) | |
+
+### 順列全探索（上級）
+
+| 問題名 | メモ |
+| --- | --- |
+| [ABC376-D Laser Marking](https://atcoder.jp/contests/abc374/tasks/abc374_d) | |
 
 ### しゃくとり法
 
@@ -484,6 +490,7 @@
 | --- | --- |
 | [競プロ典型90問-004 Cross Sum](https://atcoder.jp/contests/typical90/tasks/typical90_d) | |
 | [競プロ典型90問-010 Score Sum Queries](https://atcoder.jp/contests/typical90/tasks/typical90_j) | |
+| [ABC375-D ABA](https://atcoder.jp/contests/abc375/tasks/abc375_d) | |
 
 ### 二次元累積和
 

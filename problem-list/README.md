@@ -503,6 +503,12 @@
 <a id="section-07-b"></a>
 ## グラフ【上級】
 
+### dfs,bfs 
+
+| 問題名 | メモ |
+| --- | --- |
+| [ABC373-D - Hidden Weights](https://atcoder.jp/contests/abc373/tasks/abc373_d) | |
+
 ### dfs、バックトラック
 
 | 問題名 | メモ |

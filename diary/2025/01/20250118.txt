@@ -1,0 +1,4 @@
+ABC373-D - Hidden Weights
+https://atcoder.jp/contests/abc373/tasks/abc373_d
+【WA】
+解法わからず

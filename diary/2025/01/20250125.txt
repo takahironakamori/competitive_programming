@@ -1,0 +1,3 @@
+ABC389-D - Squares in Circle
+https://atcoder.jp/contests/abc389/tasks/abc389_d
+【AC】1WA

@@ -329,6 +329,7 @@
 | [競プロ鉄則-A40 Triangle](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_an) | |
 | [競プロ鉄則-B40 Divide by 100](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_dm) | |
 | [競プロ典型90問-046 I Love 46](https://atcoder.jp/contests/typical90/tasks/typical90_at) | |
+| [ABC389-D Squares in Circle](https://atcoder.jp/contests/abc389/tasks/abc389_d) | |
 
 ### うしろから考える、両側から考える
 
@@ -428,7 +429,7 @@
 | --- | --- |
 | [ABC376-D Laser Marking](https://atcoder.jp/contests/abc374/tasks/abc374_d) | |
 
-### しゃくとり法
+### しゃくとり法（上級）
 
 | 問題名 | メモ |
 | --- | --- |
@@ -439,6 +440,7 @@
 | [ABC381-D 1122 Substring](https://atcoder.jp/contests/abc381/tasks/abc381_d) | |
 | [ABC382-C Kaiten Sushi](https://atcoder.jp/contests/abc382/tasks/abc382_c) | しゃくとり法で前計算 |
 | [ABC384-D Repeated Sequence](https://atcoder.jp/contests/abc384/tasks/abc384_d) | 円環、しゃくとり法 |
+| [ABC389-D Squares in Circle](https://atcoder.jp/contests/abc389/tasks/abc389_d) | |
 
 ### 再帰
 

@@ -353,6 +353,7 @@
 | [競プロ鉄則-B42 Two Faced Cards](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_do) | |
 | [第八回アルゴリズム実技検定過去問-M バランス](https://atcoder.jp/contests/past202109-open/tasks/past202109_m) | |
 | [ABC385-C Illuminate Buildings](https://atcoder.jp/contests/abc385/tasks/abc385_c) | |
+| [ABC386-D Diagonal Separation](https://atcoder.jp/contests/abc386/tasks/abc386_d) | |
 
 ### 問題を言い換える
 

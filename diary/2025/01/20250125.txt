@@ -1,3 +1,11 @@
 ABC389-D - Squares in Circle
 https://atcoder.jp/contests/abc389/tasks/abc389_d
 【AC】1WA
+
+ABC382-C - Kaiten Sushi[3Q]
+https://atcoder.jp/contests/abc374/tasks/abc374_c
+【WA】
+
+ABC386-D - Diagonal Separation[1Q]
+https://atcoder.jp/contests/abc386/tasks/abc386_d
+【WA】

@@ -1,9 +1,0 @@
-ABC381-D 1122 Substring [1Q]
-https://atcoder.jp/contests/abc381/tasks/abc381_d
-【WA】
-しゃくとり法が、うまく実装できず。
-
-ABC380-D Strange Mirroring [1Q]
-https://atcoder.jp/contests/abc380/tasks/abc380_d
-【WA】
-完全ニ分木で考えることができなかった。

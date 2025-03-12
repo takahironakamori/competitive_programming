@@ -4,6 +4,6 @@
 
 - [Problem Palette](https://github.com/users/takahironakamori/projects/9/views/1) ... ACできなかった問題のステータス管理。
 - [Problem List](https://github.com/takahironakamori/competitive_programming/tree/main/problem-list)　... 問題の分野別一覧表。
-- [私なりの典型問題リスト](https://github.com/takahironakamori/competitive_programming/tree/main/tenkei-problem-list)
+- [私なりの典型問題リスト](https://github.com/takahironakamori/competitive_programming/tree/main/tenkei-problem-list) ... ABCに参加していて「典型だなぁ」と思うパターンとその問題例。
 
 &nbsp;

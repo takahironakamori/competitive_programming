@@ -1,9 +1,0 @@
-EDPC-K Stones
-https://atcoder.jp/contests/dp/tasks/dp_k
-【WA】
-解法わからず
-
-EDPC-Q Flowers
-https://atcoder.jp/contests/dp/tasks/dp_q
-【WA】
-解法わからず

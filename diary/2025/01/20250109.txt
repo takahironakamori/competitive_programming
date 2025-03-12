@@ -1,4 +1,0 @@
-ABC387-C Snake Numbers
-https://atcoder.jp/contests/abc387/tasks/abc387_c
-【WA】
-桁DPの勉強
